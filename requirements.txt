@@ -1,0 +1,5 @@
+Flask==3.0.3
+gradio==4.31.2
+transformers==4.40.1
+pyfiglet
+torch==2.3.0
